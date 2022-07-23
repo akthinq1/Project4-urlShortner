@@ -1,5 +1,5 @@
 const urlModel = require('../models/urlModel')
-const mongoose = require("mongoose")
+//const mongoose = require("mongoose")
 const shortid = require('shortid')
 const validUrl = require('valid-url')
 const redis = require("redis");
